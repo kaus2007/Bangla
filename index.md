@@ -1,4 +1,4 @@
-## Curriculum Vitae || Kaushik Ghosh
+## All about Bangla || Kaushik Ghosh
 
 ---
   <br>Introduction
