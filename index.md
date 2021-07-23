@@ -1,4 +1,4 @@
-## All about Bangla || Author: Kaushik Ghosh || Bio: https://kaus2007.github.io/online-cv
+## All about Bangla || Author: Kaushik Ghosh
 
 ---
   <br>Introduction
@@ -29,7 +29,7 @@ Bengal played a major role in the Indian independence movement, in which revolut
 <br>
 Source: Wikipedia<br>
   
-
+About the author <a href = "https://kaus2007.github.io/online-cv"> Author Bio </a>
 
 
 ---
