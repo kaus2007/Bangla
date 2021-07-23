@@ -1,4 +1,4 @@
-## All about Bangla || Kaushik Ghosh
+## All about Bangla || Author: Kaushik Ghosh || Bio: https://kaus2007.github.io/online-cv
 
 ---
   <br>Introduction
