@@ -1,7 +1,7 @@
 title: Kaushik Ghosh # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <p style="font-size:13px"> <br>BE, Information Technology, School of Information Technology, West Bengal University of Technology ||
+  <p style="font-size:13px"> <div class="scroll"> <br>BE, Information Technology, School of Information Technology, West Bengal University of Technology ||
   MBA, Vinod Gupta School of Management, Indian Institute of Technology, IIT Khragpur<br>
   <br>Author of various papers at many internationally published journals including top Business Schools of the globe ||
   Peer Reviewer ||
@@ -13,6 +13,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <br> <a href="https://www.linkedin.com/in/kaushik-ghosh-bb3a2430/">View My LinkedIn Profile</a> <br> 
   <a href="https://hq.ssrn.com/submissions/MyPapers.cfm?partid=4021364">View My SSRN Page</a> 
+  </div>
 # theme: jekyll-theme-leap-day
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
 
